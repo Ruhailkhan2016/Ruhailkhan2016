@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@iamruhail_khan" target="blank"><img src="https://img.shields.io/twitter/follow/@iamruhail_khan?logo=twitter&style=for-the-badge" alt="@iamruhail_khan" /></a> </p>
 
-- 🔭 I’m currently working on **Water Can supply management system**
+- 🔭 I’m currently working on **Water Can supply management system Project**
 
 - 🌱 I’m currently learning **Django framework, Python, Bootstrap,**
 
