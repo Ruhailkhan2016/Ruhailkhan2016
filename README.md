@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Django framework, Python, Bootstrap,**
 
-- 💬 Ask me about **C/C++, Python, Java, Django**
+- 💬 Ask me about **C/C++, Python, Java, Django and SQL Database**
 
 - 📫 How to reach me **ruhailkhan2016@gmail.com**
 
